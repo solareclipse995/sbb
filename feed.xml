@@ -1,12 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>PP</title>
+    <title>LL</title>
     <link href="https://solareclipse995.github.io/sbb/feed.xml" rel="self" />
     <link href="https://solareclipse995.github.io/sbb" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2022-06-30T22:20:31+03:00</updated>
     <author>
         <name>SE</name>
     </author>
     <id>https://solareclipse995.github.io/sbb</id>
 
+    <entry>
+        <title>LL</title>
+        <author>
+            <name>SE</name>
+        </author>
+        <link href="https://solareclipse995.github.io/sbb/ll/"/>
+        <id>https://solareclipse995.github.io/sbb/ll/</id>
+
+        <updated>2022-06-30T22:20:31+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://solareclipse995.github.io/sbb/media/posts/2/photo_2022-06-30_22-18-18-3.jpg" alt="Light" />
+                    Hi all! My name is Solar Eclipse or Light. I decided to try to make a website and I will deal with different nonsense here😅
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://solareclipse995.github.io/sbb/media/posts/2/photo_2022-06-30_22-18-18-3.jpg" alt="Light" />
+                <p>Hi all! My name is Solar Eclipse or Light. I decided to try to make a website and I will deal with different nonsense here😅</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

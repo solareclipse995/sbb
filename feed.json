@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "PP",
+    "title": "LL",
     "description": "",
     "home_page_url": "https://solareclipse995.github.io/sbb",
     "feed_url": "https://solareclipse995.github.io/sbb/feed.json",
@@ -9,5 +9,20 @@
         "name": "SE"
     },
     "items": [
+        {
+            "id": "https://solareclipse995.github.io/sbb/ll/",
+            "url": "https://solareclipse995.github.io/sbb/ll/",
+            "title": "LL",
+            "summary": "Hi all! My name is Solar Eclipse or Light. I decided to try to make a website and I will deal with different nonsense here😅",
+            "content_html": "<p>Hi all! My name is Solar Eclipse or Light. I decided to try to make a website and I will deal with different nonsense here😅</p>",
+            "image": "https://solareclipse995.github.io/sbb/media/posts/2/photo_2022-06-30_22-18-18-3.jpg",
+            "author": {
+                "name": "SE"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-30T22:20:31+03:00",
+            "date_modified": "2022-06-30T22:20:31+03:00"
+        }
     ]
 }
