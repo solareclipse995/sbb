@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PP",
+    "description": "",
+    "home_page_url": "https://solareclipse995.github.io/sbb",
+    "feed_url": "https://solareclipse995.github.io/sbb/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SE"
+    },
+    "items": [
+    ]
+}
